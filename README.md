@@ -1,6 +1,4 @@
-<div id="" align="center">
-  <img src="https://i.ibb.co/3hwdkdw/SPROSPER-BANNER-GITHUB.png" width="100%"/>
-</div>
+
 <h1 align="center">Hi 👋, I'm Sebastien Prosper</h1>
 <h3 align="center">A HTML Email || Front-End Developer</h3>
 <h4 align="center">Hi my name is Sebastien Prosper, a web developer based out of Canada. I've worked on web development for more than 3+ years. I have worked in the Content Management Space with Shopify and Wordpress. I've also built and maintained projects as a front-end developer using all the skills below at my disposal. <br><br>Let's build something awesome! </h4>
