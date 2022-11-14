@@ -21,7 +21,7 @@
                   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="75" height="75"/>
                   <img src="https://i.ibb.co/6BRmwVY/javascript-logo-transparent-logo-javascript-images-3.png" alt="javascript" width="75" height="75"/>
                   <img src="https://i.ibb.co/pnBdrZ2/wordpress-logo-png-transparent-wordpress-logo-images-pluspng-6.png" alt="wordpress" width="75" height="75"/>
-<!--                   <img src="https://i.ibb.co/Wx7085J/shopify-logo-png-transparent.png" alt="shopify" width="75" height="75"/> -->
+                 <img src="https://i.ibb.co/Wx7085J/shopify-logo-png-transparent.png" alt="shopify" width="75" height="75"/> 
                   <img src="https://i.ibb.co/Zhws3GN/photoshop-cc-splash-png-logo-3.png" alt="photoshop" width="75" height="75"/>
                   <img src="https://i.ibb.co/ctrZMg3/java-logo-1.png" alt="java" width="75" height="75"/> 
                    <img src="https://i.ibb.co/0Ykbbv8/58417f6ba6515b1e0ad75a2b.png" alt="mailchimp" width="75" height="75"/>                  
