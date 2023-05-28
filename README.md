@@ -3,9 +3,24 @@
 
 <img src="https://i.ibb.co/nQq8crf/Black-Technology-Linked-In-Banner.png" alt="Banner Sebastien" /> 
 
-<h1 align="center">Hi 👋, I'm Sebastien Prosper</h1>
-<h3 align="center">A HTML Email Developer</h3>
-<h4 align="center">Hi, I'm a Email developer based out of Canada. I've worked on web development for more than 2+ years. I have worked in the Content Management Space with Shopify and Wordpress. I've also built and maintained projects as a front-end developer using all the skills below at my disposal. <br><br>Let's build something exceptional! </h4>
+<h1 align="center">Hello 👋, I'm Sebastien Prosper,</h1>
+<h4 align="center">a seasoned email developer with a robust background in email marketing. Specializing in crafting responsive HTML emails, I transform design mockups into actionable email campaigns.<br><br>
+My experience spans working with prestigious Canadian retail brands including Prestilux, Lancome, and Hudson's Bay, utilizing platforms like Marketing Cloud and Mailchimp to maximize campaign impact.
+<br>
+<br>
+In my personal time, I enjoy swimming and maintaining physical fitness, and I'm proud to communicate fluently in four languages: English, Spanish, French, and Kreyol.
+<br>
+<br
+ Let's build something exceptional!   </h4>
+
+
+
+
+
+
+
+
+
 
 <hr>
 
