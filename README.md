@@ -40,7 +40,6 @@ In my personal time, I enjoy swimming and maintaining physical fitness, and I'm 
 <!--                   <img src="https://i.ibb.co/Zhws3GN/photoshop-cc-splash-png-logo-3.png" alt="photoshop" width="75" height="75"/> -->
                   <img src="https://i.ibb.co/ctrZMg3/java-logo-1.png" alt="java" width="75" height="75"/> 
                    <img src="https://i.ibb.co/0Ykbbv8/58417f6ba6515b1e0ad75a2b.png" alt="mailchimp" width="75" height="75"/>                  
-                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="75" height="75"/>
                                   
                        
                    
