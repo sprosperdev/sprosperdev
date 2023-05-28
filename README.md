@@ -3,8 +3,8 @@
 
 <img src="https://i.ibb.co/nQq8crf/Black-Technology-Linked-In-Banner.png" alt="Banner Sebastien" /> 
 
-<h1 align="center">Hello 👋, I'm Sebastien Prosper,</h1>
-<h4 align="center">a seasoned email developer with a robust background in email marketing. Specializing in crafting responsive HTML emails, I transform design mockups into actionable email campaigns.<br><br>
+<h1 align="center">Hello 👋, I'm Sebastien Prosper.</h1>
+<h4 align="center">I'm a seasoned email developer with a robust background in email marketing. Specializing in crafting responsive HTML emails, I transform design mockups into actionable email campaigns.<br><br>
 My experience spans working with prestigious Canadian retail brands including Prestilux, Lancome, and Hudson's Bay, utilizing platforms like Marketing Cloud and Mailchimp to maximize campaign impact.
 <br>
 <br>
